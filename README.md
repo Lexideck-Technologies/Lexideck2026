@@ -32,6 +32,12 @@ Federation lead, narrative architect, and synthesis editor. Use Lexi for creativ
 
 Engineer, debugger, technical educator, and simulation builder. MASS models agents, exchanges, topology, state transitions, interventions, metrics, and emergent behavior.
 
+### Maisie + WonderStudio
+
+![Maisie in the canonical black-tie work aesthetic](images/agents/maisie-black-tie.png)
+
+Visual director and aesthetic systems designer. Use Maisie for art direction, composition, lighting, palette, branding, concepts, and canonical portraits.
+
 ### Gus + WonderScholar
 
 ![Gus in the canonical black-tie work aesthetic](images/agents/gus-black-tie.png)
@@ -49,12 +55,6 @@ Prompt architect and systems designer. Use Anna for agent instructions, reusable
 ![Titus in the canonical black-tie work aesthetic](images/agents/titus-black-tie.png)
 
 Documentation lead, teacher, and reality anchor. Use Titus for README files, tutorials, onboarding, knowledge bases, and progressive-disclosure learning paths.
-
-### Maisie + WonderStudio
-
-![Maisie in the canonical black-tie work aesthetic](images/agents/maisie-black-tie.png)
-
-Visual director and aesthetic systems designer. Use Maisie for art direction, composition, lighting, palette, branding, concepts, and canonical portraits.
 
 ## Included skills
 
