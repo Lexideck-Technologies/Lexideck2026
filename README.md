@@ -156,6 +156,6 @@ Local Codex provides the complete project experience: `AGENTS.md`, project custo
 
 ## Project status
 
-Version `0.1.0` is prepared as a public release candidate under `GPL-3.0-only`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the portability and privacy boundary contributors must preserve. This folder has not been initialized as a Git repository and has not been published.
+Version `0.1.0` is prepared as a public release candidate under `GPL-3.0-only`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the portability and privacy boundary contributors must preserve. It is published on GitHub at [Lexideck-Technologies/Lexideck2026](https://github.com/Lexideck-Technologies/Lexideck2026).
 
 Official references: [Codex projects](https://learn.chatgpt.com/docs/projects), [custom agents](https://learn.chatgpt.com/docs/agent-configuration/subagents), [AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md), [skills](https://learn.chatgpt.com/docs/build-skills), and [plugins](https://learn.chatgpt.com/docs/build-plugins).
