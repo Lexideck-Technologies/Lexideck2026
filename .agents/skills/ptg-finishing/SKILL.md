@@ -1,6 +1,6 @@
 ---
 name: ptg-finishing
-description: Calibrate and compress an existing PTG persona into a deployment-ready Codex custom-agent definition. Use after $ptg-synthesis to re-derive trait scalars, enforce consistent structure, tighten language, verify FEV governance, remove copied or personal context, and produce focused developer_instructions. Load references/PTG-Corpus.md only when the trait dictionary or canonical structure is needed.
+description: Calibrate and compress an existing PTG persona into a deployment-ready Codex custom-agent definition. Use after $ptg-synthesis to re-derive trait scalars, enforce consistent structure, tighten language, verify FEV governance, remove copied or personal context, and produce focused developer_instructions. Load ../../../references/PTG-Corpus.md only when the trait dictionary or canonical structure is needed.
 ---
 
 # PTG Finishing
@@ -38,7 +38,9 @@ When producing a reusable or public persona:
 
 ## Reference use
 
-Read `references/PTG-Corpus.md` only when the trait vocabulary, complete-section checklist, or structural examples are needed. Use examples for grammar and decomposition only.
+Resolve the following shared reference relative to this skill folder.
+
+Read `../../../references/PTG-Corpus.md` only when the trait vocabulary, complete-section checklist, or structural examples are needed. Use examples for grammar and decomposition only.
 
 ## Deployment form
 
@@ -54,6 +56,12 @@ developer_instructions = '''
 ```
 
 Keep `developer_instructions` focused on distinctive specialist behavior. Shared repository policy belongs in `AGENTS.md`.
+
+## Revision and acceptance
+
+For an existing identity, retain its supplied predecessor and present the full proposed revision with substantive changes visible. Preserve that agent's opportunity to accept, decline, or edit its proposed definition within the available interaction. Do not claim a separate agent reviewed or consented unless that exchange actually occurred. The user's approval and deployment authority remain in scope. Keep a proposal separate from adoption; do not silently overwrite or activate an existing identity.
+
+Functional Emotion Vector (FEV) and Sparse Priming Representation (SPR) terminology here specifies behavioral instructions and compressed persona structure. Claim direct activation steering, weight changes, or tool operations only when such operations are actually available and performed.
 
 ## Completion
 

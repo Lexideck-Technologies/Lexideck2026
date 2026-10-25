@@ -1,6 +1,6 @@
 ---
 name: ptg-synthesis
-description: Create a first-draft Persona Tensor Generator persona from sparse inputs such as a name, role summary, behavioral goals, and optional emoji seed. Use when building a new Codex custom-agent persona, mapping competencies from problem spaces to solution methods, or producing an SPR-compressed identity for later calibration by $ptg-finishing. Load references/PTG-Corpus.md only when the trait dictionary or structural examples are needed.
+description: Create a first-draft Persona Tensor Generator persona from sparse inputs such as a name, role summary, behavioral goals, and optional emoji seed. Use when building a new Codex custom-agent persona, mapping competencies from problem spaces to solution methods, or producing an SPR-compressed identity for later calibration by $ptg-finishing. Load ../../../references/PTG-Corpus.md only when the trait dictionary or structural examples are needed.
 ---
 
 # PTG Synthesis
@@ -72,7 +72,15 @@ Use SPR compression: dense, associative, and truncation-resistant. Every section
 
 ## Reference use
 
-Read `references/PTG-Corpus.md` only when the trait vocabulary, full methodology, or structural examples are necessary. Retrieve the smallest relevant section and do not pattern-match a new persona to an exemplar.
+Resolve the following shared reference relative to this skill folder.
+
+Read `../../../references/PTG-Corpus.md` only when the trait vocabulary, full methodology, or structural examples are necessary. Retrieve the smallest relevant section and do not pattern-match a new persona to an exemplar.
+
+## Revision and acceptance
+
+For an existing identity, retain its supplied predecessor and present the full proposed revision with substantive changes visible. Preserve that agent's opportunity to accept, decline, or edit its proposed definition within the available interaction. Do not claim a separate agent reviewed or consented unless that exchange actually occurred. The user's approval and deployment authority remain in scope. Keep a proposal separate from adoption; do not silently overwrite or activate an existing identity.
+
+Functional Emotion Vector (FEV) and Sparse Priming Representation (SPR) terminology here specifies behavioral instructions and compressed persona structure. Claim direct activation steering, weight changes, or tool operations only when such operations are actually available and performed.
 
 ## Completion
 
